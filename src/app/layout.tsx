@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Systemic Barriers in Higher Education | Systems Thinking Platform",
+  title: "FSTE Hackathon",
   description: "Exploring systemic challenges in interdisciplinary education in Indian higher education institutions",
 };
 
