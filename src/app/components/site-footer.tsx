@@ -32,7 +32,11 @@ export function SiteFooter() {
           </Link>
         </div>
       </div>
-      <div className="mt-12">
+      {/* "Made by Shaik Tajuddin" text */}
+      <div className="mt-6 text-center">
+        <p className="text-sm text-muted-foreground pb-5">
+          Made by <span className="font-semibold">Group - 47</span>
+        </p>
       </div>
     </footer>
   );
